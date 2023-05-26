@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1EC0F8D2-FC1E-40F5-8FD8-F5B4F48E2EBF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0ABA2698-5A9E-4302-9757-EC0A75573162"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeList/Views/EmployeeListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "previews"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18319C84-268D-4CC9-8F32-F30CB35A86AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeList/Views/EmployeeDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "18319C84-268D-4CC9-8F32-F30CB35A86AB - fad87d8c2d8d0efb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI._ConditionalContent&lt;EmployeeList.EmployeeProfile, &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in EmployeeList.EmployeeDetailView.body.getter : some"
+                  moduleName = "EmployeeList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/EmployeeList/Views/EmployeeDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "4073">
+               </Location>
+               <Location
+                  uuid = "18319C84-268D-4CC9-8F32-F30CB35A86AB - ada3b39dda73f714"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI._ConditionalContent&lt;EmployeeList.EmployeeProfile, &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in EmployeeList.EmployeeDetailView.body.getter : some"
+                  moduleName = "EmployeeList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/EmployeeList/Views/EmployeeDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "123">
+               </Location>
+               <Location
+                  uuid = "18319C84-268D-4CC9-8F32-F30CB35A86AB - 6cf5e0b27157213"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI.Spacer, SwiftUI.EditButton)&gt;&gt;, SwiftUI._ConditionalContent&lt;EmployeeList.EmployeeProfile, &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in EmployeeList.EmployeeDetailView.body.getter : some"
+                  moduleName = "EmployeeList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/EmployeeList/Views/EmployeeDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1983">
+               </Location>
+               <Location
+                  uuid = "18319C84-268D-4CC9-8F32-F30CB35A86AB - 6cf5e0b27157213"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Button&lt;SwiftUI.Text&gt;&gt;, SwiftUI.Spacer, SwiftUI.EditButton)&gt;&gt;, SwiftUI._ConditionalContent&lt;EmployeeList.EmployeeProfile, &lt;&lt;opaque return type of SwiftUI.View.onDisappear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in EmployeeList.EmployeeDetailView.body.getter : some"
+                  moduleName = "EmployeeList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/EmployeeList/Views/EmployeeDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1812">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8C5EBA1-BFA6-4335-8512-24E922F1DC1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeList/Views/EmployeeDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "previews"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F8C5EBA1-BFA6-4335-8512-24E922F1DC1A - 61c79caeea0b5dbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static EmployeeList.EmployeeDetailView_Previews.previews.getter : some"
+                  moduleName = "EmployeeList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/EmployeeList/Views/EmployeeDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "F8C5EBA1-BFA6-4335-8512-24E922F1DC1A - 61c79caeea0b5dbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static EmployeeList.EmployeeDetailView_Previews.previews.getter : some"
+                  moduleName = "EmployeeList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/EmployeeList/Views/EmployeeDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "161">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79ABC1C3-9AB4-4D08-9141-80BC512FC9EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeList/Services/EmployeesAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F0FD27E9-C032-41D2-A553-6925A59B5D89"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeList/Services/EmployeesAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2913E20B-F7C6-4C9D-9691-BE1174349E27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeList/Services/EmployeesAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1070CAE2-AC86-4D9B-9998-58CC6A4C6BA1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeList/Services/EmployeesAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D7458BA-E9E9-4267-9EF8-C506C81340E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EmployeeList/Services/EmployeesAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9A76116-0CE1-4D32-A9E0-8DAF526E1FFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/Services/DirectoryAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45E576D2-D0E8-4CA9-83A3-1F8DB43A6FE3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/Services/DirectoryAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D4A21B6-D742-423E-A3A7-5AD0F7BB5936"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/Services/DirectoryAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0703CB7-DA85-46CF-8CB7-61BA0FF2D3CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/Services/DirectoryAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0650297-DCFC-45E7-ABB5-AF5754403015"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/Services/DirectoryAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D0650297-DCFC-45E7-ABB5-AF5754403015 - 67d92f4869af2232"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryApp.DirectoryAPIService.call&lt;&#x3c4;_0_0 where &#x3c4;_0_0: DirectoryApp.APIRequestType&gt;(from: &#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.ModelType, Swift.Error&gt;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/DirectoryApp/Services/DirectoryAPIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "2068">
+               </Location>
+               <Location
+                  uuid = "D0650297-DCFC-45E7-ABB5-AF5754403015 - 67d92f4869af2232"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryApp.DirectoryAPIService.call&lt;&#x3c4;_0_0 where &#x3c4;_0_0: DirectoryApp.APIRequestType&gt;(from: &#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.ModelType, Swift.Error&gt;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/DirectoryApp/Services/DirectoryAPIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "2164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DFB55A5E-83B1-4596-A4F3-7565030A20D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/Services/DirectoryAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA4FD4C7-4C29-4EAB-AC6C-47BBDBB4E6A3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/Services/DirectoryAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA4FD4C7-4C29-4EAB-AC6C-47BBDBB4E6A3 - 67d92f4869af2297"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryApp.DirectoryAPIService.call&lt;&#x3c4;_0_0 where &#x3c4;_0_0: DirectoryApp.APIRequestType&gt;(from: &#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.ModelType, Swift.Error&gt;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/DirectoryApp/Services/DirectoryAPIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1734">
+               </Location>
+               <Location
+                  uuid = "DA4FD4C7-4C29-4EAB-AC6C-47BBDBB4E6A3 - e634429c15e87811"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; Swift.Error in DirectoryApp.DirectoryAPIService.call&lt;&#x3c4;_0_0 where &#x3c4;_0_0: DirectoryApp.APIRequestType&gt;(from: &#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.ModelType, Swift.Error&gt;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/DirectoryApp/Services/DirectoryAPIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "307C1E09-F548-433C-AB78-795A4FD2BD4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/ViewModels/RoomListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "fetchEmployeeList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCB5AA99-564F-4433-9627-369700578585"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/ViewModels/RoomListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "fetchEmployeeList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F20B71D-742C-4754-A7C7-190A5ABAFA8E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/ViewModels/RoomListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchEmployeeList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C124462D-6F40-4575-918E-8F5082E7A942"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/ViewModels/RoomListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchEmployeeList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD086D33-1B65-4685-99D9-9D46A385345F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/ViewModels/RoomListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchEmployeeList()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EC4B0BE-3995-433E-9130-10294E88C1A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/Services/DirectoryAPIService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "call(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3EC4B0BE-3995-433E-9130-10294E88C1A8 - 67d92f4869af2402"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DirectoryApp.DirectoryAPIService.call&lt;&#x3c4;_0_0 where &#x3c4;_0_0: DirectoryApp.APIRequestType&gt;(from: &#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.ModelType, Swift.Error&gt;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/DirectoryApp/Services/DirectoryAPIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1383">
+               </Location>
+               <Location
+                  uuid = "3EC4B0BE-3995-433E-9130-10294E88C1A8 - 5fb2a7f506e1dfec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 ((data: Foundation.Data, response: __C.NSURLResponse)) throws -&gt; Foundation.Data in DirectoryApp.DirectoryAPIService.call&lt;&#x3c4;_0_0 where &#x3c4;_0_0: DirectoryApp.APIRequestType&gt;(from: &#x3c4;_0_0) -&gt; Combine.AnyPublisher&lt;&#x3c4;_0_0.ModelType, Swift.Error&gt;"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/SwiftUI-MVVM-Demo-master/DirectoryApp/Services/DirectoryAPIService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD424199-F08D-4B3F-B990-7392314AAD4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/PresentationLayer/People/ViewModels/CustomImageViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "loadImage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD424199-F08D-4B3F-B990-7392314AAD4D - 17dd5cb086e20452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in DirectoryApp.CustomImageViewModel.loadImage() -&gt; ()"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/VMDirectoryApp/DirectoryApp/PresentationLayer/People/ViewModels/CustomImageViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "175">
+               </Location>
+               <Location
+                  uuid = "FD424199-F08D-4B3F-B990-7392314AAD4D - 17dd5cb086e20452"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in DirectoryApp.CustomImageViewModel.loadImage() -&gt; ()"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/VMDirectoryApp/DirectoryApp/PresentationLayer/People/ViewModels/CustomImageViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "181">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "695AA60A-CA88-4170-8C77-41AAC6315227"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DirectoryApp/PresentationLayer/People/ViewModels/CustomImageViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "loadImage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "695AA60A-CA88-4170-8C77-41AAC6315227 - 108e8e937dadef5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.Data) -&gt; () in DirectoryApp.CustomImageViewModel.loadImage() -&gt; ()"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/VMDirectoryApp/DirectoryApp/PresentationLayer/People/ViewModels/CustomImageViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "591">
+               </Location>
+               <Location
+                  uuid = "695AA60A-CA88-4170-8C77-41AAC6315227 - 108e8e937dadef5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Foundation.Data) -&gt; () in DirectoryApp.CustomImageViewModel.loadImage() -&gt; ()"
+                  moduleName = "DirectoryApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherry/Downloads/VMDirectoryApp/DirectoryApp/PresentationLayer/People/ViewModels/CustomImageViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "481">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
